@@ -1,8 +1,9 @@
-[![MasterHead][()]<"https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
+[![MasterHead][("https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif")]
+
 
 <h1 align="center">Hi 👋, I'm Summer Nazari</h1>
 <h3 align="center">🦀A Maryland chick looking to do cool things in tech 🦀</h3>
-<img align="right" alt="Coding" width="400" src="file:///Users/summernazari/Desktop/download.jpg”>
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2008095647350189632/E52D97A451C546FF85186F9C7F7D4634E16E2F67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false”>
 <p align="left"> <a href="https://twitter.com/nazarisumm78683" target="blank"><img src="https://img.shields.io/twitter/follow/nazarisumm78683?logo=twitter&style=for-the-badge" alt="nazarisumm78683" /></a> </p>
 
 - 💬I’m currently working on **ConvoFlow**
