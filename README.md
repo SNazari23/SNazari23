@@ -1,8 +1,8 @@
-[![MasterHead][(https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)]
+[![MasterHead][()]<"https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
 
 <h1 align="center">Hi 👋, I'm Summer Nazari</h1>
 <h3 align="center">🦀A Maryland chick looking to do cool things in tech 🦀</h3>
-<img align="right" alt="Coding" width="400" src="https://animesher.com/orig/2/213/2130/21307/animesher.com_80s-cyber-grunge-pale-2130706.gif”>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s”>
 <p align="left"> <a href="https://twitter.com/nazarisumm78683" target="blank"><img src="https://img.shields.io/twitter/follow/nazarisumm78683?logo=twitter&style=for-the-badge" alt="nazarisumm78683" /></a> </p>
 
 - 💬I’m currently working on **ConvoFlow**
