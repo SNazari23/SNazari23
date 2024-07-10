@@ -1,4 +1,4 @@
-[![MasterHead][()]<"https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
+[![MasterHead][()]<"https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
 
 <h1 align="center">Hi 👋, I'm Summer Nazari</h1>
 <h3 align="center">🦀A Maryland chick looking to do cool things in tech 🦀</h3>
