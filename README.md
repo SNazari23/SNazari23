@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Summer Nazari</h1>
 <h3 align="center">🦀A Maryland chick looking to do cool things in tech 🦀</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/nazarisumm78683" target="blank"><img src="https://img.shields.io/twitter/follow/nazarisumm78683?logo=twitter&style=for-the-badge" alt="nazarisumm78683" /></a> </p>
 
