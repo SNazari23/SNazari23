@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/SNazari23/SNazari23/assets/135740768/16dd8772-5892-4b85-9f28-b6d4abd2a3c7)]
+![MasterHead](https://github.com/SNazari23/SNazari23/assets/135740768/16dd8772-5892-4b85-9f28-b6d4abd2a3c7)
 
 
 
