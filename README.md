@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/SNazari23/SNazari23/assets/135740768/4360ff99-57da-4cc3-ba42-e0d9ca7df2a9)](https://rishavchanda.io)
+[![MasterHead](https://github.com/SNazari23/SNazari23/assets/135740768/16dd8772-5892-4b85-9f28-b6d4abd2a3c7)]
+
 
 
 
