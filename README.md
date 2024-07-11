@@ -1,3 +1,7 @@
+[![MasterHead](https://github.com/SNazari23/SNazari23/assets/135740768/d6e97832-8849-4a9f-987e-aa8bace2e115)]
+
+
+
 <h1 align="center"> 🌻I'm Summer Nazari🌻</h1>
 <h3 align="center">🦀A Maryland chick looking to do cool things in tech 🦀</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/SNazari23/SNazari23/assets/135740768/016e0b4b-2c7a-4aae-bea4-051a9cef767c">
