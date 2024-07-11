@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Summer Nazari</h1>
+<h1 align="center"> 🌻I'm Summer Nazari🌻</h1>
 <h3 align="center">🦀A Maryland chick looking to do cool things in tech 🦀</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/SNazari23/SNazari23/assets/135740768/016e0b4b-2c7a-4aae-bea4-051a9cef767c">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snazari23&label=Profile%20views&color=0e75b6&style=flat" alt="snazari23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nazarisumm78683" target="blank"><img src="https://img.shields.io/twitter/follow/nazarisumm78683?logo=twitter&style=for-the-badge" alt="nazarisumm78683" /></a> </p>
