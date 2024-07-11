@@ -1,4 +1,4 @@
-[![MasterHead][("https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif")]
+<[![MasterHead][("https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif")]>
 
 
 <h1 align="center">Hi 👋, I'm Summer Nazari</h1>
