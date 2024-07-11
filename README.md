@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Summer Nazari</h1>
 <h3 align="center">🦀A Maryland chick looking to do cool things in tech 🦀</h3>
-<img align="right" alt="Coding" width="400" src="![download](https://github.com/SNazari23/SNazari23/assets/135740768/634038c4-5d95-4e03-9035-9280b6b6438d)">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/SNazari23/SNazari23/assets/135740768/3ef1c7cf-34b7-4eb0-96a4-aaebcb5c016a)
+>
 
 
 
