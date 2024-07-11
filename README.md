@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Summer Nazari</h1>
 <h3 align="center">🦀A Maryland chick looking to do cool things in tech 🦀</h3>
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2008095647350189632/E52D97A451C546FF85186F9C7F7D4634E16E2F67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false”>
+![download](https://github.com/SNazari23/image/assets/135740768/c27b86f8-6678-446f-95fc-897ac6c37b38) 
 <p align="left"> <a href="https://twitter.com/nazarisumm78683" target="blank"><img src="https://img.shields.io/twitter/follow/nazarisumm78683?logo=twitter&style=for-the-badge" alt="nazarisumm78683" /></a> </p>
 
 - 💬I’m currently working on **ConvoFlow**
