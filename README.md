@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- X (Twitter) -->
+  <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/500px-X_logo.jpg -->
   <a href="https://x.com/nazarisumm78683" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X Profile" height="30" width="30" />
   </a>
