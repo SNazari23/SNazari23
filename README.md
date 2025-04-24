@@ -28,11 +28,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/500px-X_logo.jpg -->
+  <!-- X (Twitter) -->
   <a href="https://x.com/nazarisumm78683" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X Profile" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/500px-X_logo.jpg" alt="X Profile" height="30" width="30" />
   </a>
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/summer-nazari-8a7907318/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
