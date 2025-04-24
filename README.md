@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/nazarisumm78683" target="blank"><img src="https://img.shields.io/twitter/follow/nazarisumm78683?logo=twitter&style=for-the-badge" alt="nazarisumm78683" /></a> </p>
 
-- 💬I’m currently working on **BusyBee**
+- 🐝I’m currently working on **BusyBee**
 
-- 🌱 I’m currently learning **Swift and React**
+- 🌱 I’m currently learning **Raspberry Pi, ESP32 microcontroller, and Arduino IDE **
 
 - 📫 How to reach me ****
 
