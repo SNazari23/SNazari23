@@ -24,7 +24,7 @@
   <li>∞ <strong>Arduino IDE</strong></li>
 </ol>
 
-- 📫 How to reach me ****
+- 📫 How to reach me summernazari890@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
