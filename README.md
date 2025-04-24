@@ -17,7 +17,10 @@
 
 - 🐝I’m currently working on **BusyBee**
 
-- 🌱 I’m currently learning **Raspberry Pi, ESP32 microcontroller, and Arduino IDE **
+- 🌱 I’m currently learning  
+  **1) 🫐Raspberry Pi🫐**
+  **2) ⚙️ESP32 microcontroller⚙️**
+  **3) ∞Arduino IDE∞**
 
 - 📫 How to reach me ****
 
