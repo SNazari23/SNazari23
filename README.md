@@ -17,7 +17,7 @@
 
 - 🐝I’m currently working on **BusyBee**
 
--🌱 <strong>I’m currently learning:</strong>
+- 🌱 <strong>I’m currently learning:</strong>
 <ol>
   <li>🫐 <strong>Raspberry Pi</strong></li>
   <li>⚙️ <strong>ESP32 microcontroller</strong></li>
