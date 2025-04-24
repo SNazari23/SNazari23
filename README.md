@@ -17,10 +17,12 @@
 
 - 🐝I’m currently working on **BusyBee**
 
-- 🌱 I’m currently learning  
-  **1) 🫐Raspberry Pi🫐**
-  **2) ⚙️ESP32 microcontroller⚙️**
-  **3) ∞Arduino IDE∞**
+<p>🌱 <strong>I’m currently learning:</strong></p>
+<ul>
+  <li>🫐 <strong>Raspberry Pi</strong></li>
+  <li>⚙️ <strong>ESP32 microcontroller</strong></li>
+  <li>∞ <strong>Arduino IDE</strong></li>
+</ul>
 
 - 📫 How to reach me ****
 
